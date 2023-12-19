@@ -1,0 +1,512 @@
+2023-12-17 12:12:416 INFO  HomePage :30 - Clicking on login link : [[ChromeDriver: chrome on windows (c63937028e8c973045438e7f52a8d08f)] -> link text: Log in]
+2023-12-17 12:12:457 INFO  LoginPage :35 - Getting text from : [[ChromeDriver: chrome on windows (c63937028e8c973045438e7f52a8d08f)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-12-17 12:12:436 INFO  HomePage :30 - Clicking on login link : [[ChromeDriver: chrome on windows (11fb84575ef69d6d8711f4bb66891c8e)] -> link text: Log in]
+2023-12-17 12:12:482 INFO  LoginPage :35 - Getting text from : [[ChromeDriver: chrome on windows (11fb84575ef69d6d8711f4bb66891c8e)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-12-17 13:12:435 INFO  HomePage :30 - Clicking on login link : [[ChromeDriver: chrome on windows (c2068273d16734adfbfde98cd626ad16)] -> link text: Log in]
+2023-12-17 13:12:475 INFO  LoginPage :35 - Getting text from : [[ChromeDriver: chrome on windows (c2068273d16734adfbfde98cd626ad16)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-12-17 13:12:34 INFO  HomePage :30 - Clicking on login link : [[ChromeDriver: chrome on windows (7a592212de54ef3fa282163572c209c1)] -> link text: Log in]
+2023-12-17 13:12:78 INFO  LoginPage :35 - Getting text from : [[ChromeDriver: chrome on windows (7a592212de54ef3fa282163572c209c1)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-12-17 13:12:446 INFO  HomePage :30 - Clicking on login link : [[ChromeDriver: chrome on windows (51da1253eaf8acf803a322d9b9ace5fe)] -> link text: Log in]
+2023-12-17 13:12:496 INFO  LoginPage :35 - Getting text from : [[ChromeDriver: chrome on windows (51da1253eaf8acf803a322d9b9ace5fe)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-12-17 13:12:114 INFO  HomePage :30 - Clicking on login link : [[ChromeDriver: chrome on windows (8f5f713c99d1d5784cdf72d33ba2bc6c)] -> link text: Log in]
+2023-12-17 13:12:148 INFO  LoginPage :35 - Getting text from : [[ChromeDriver: chrome on windows (8f5f713c99d1d5784cdf72d33ba2bc6c)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-12-17 13:12:23 INFO  HomePage :30 - Clicking on login link : [[ChromeDriver: chrome on windows (540f90809209603b96afc604f3327fd2)] -> link text: Log in]
+2023-12-17 13:12:66 INFO  LoginPage :35 - Getting text from : [[ChromeDriver: chrome on windows (540f90809209603b96afc604f3327fd2)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-12-17 13:12:313 INFO  HomePage :30 - Clicking on login link : [[ChromeDriver: chrome on windows (2ac7463340324df1b701f2eab85c3f19)] -> link text: Log in]
+2023-12-17 13:12:346 INFO  LoginPage :35 - Getting text from : [[ChromeDriver: chrome on windows (2ac7463340324df1b701f2eab85c3f19)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-12-17 13:12:361 INFO  LoginPage :40 - Sending text to : [[ChromeDriver: chrome on windows (2ac7463340324df1b701f2eab85c3f19)] -> id: Email]
+2023-12-17 13:12:432 INFO  LoginPage :45 - Sending text to : [[ChromeDriver: chrome on windows (2ac7463340324df1b701f2eab85c3f19)] -> name: Password]
+2023-12-17 13:12:827 INFO  HomePage :30 - Clicking on login link : [[ChromeDriver: chrome on windows (f1a16ae0a1e8baef9704711c6cbf72c0)] -> link text: Log in]
+2023-12-17 13:12:862 INFO  LoginPage :35 - Getting text from : [[ChromeDriver: chrome on windows (f1a16ae0a1e8baef9704711c6cbf72c0)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-12-17 13:12:877 INFO  LoginPage :40 - Sending text to : [[ChromeDriver: chrome on windows (f1a16ae0a1e8baef9704711c6cbf72c0)] -> id: Email]
+2023-12-17 13:12:940 INFO  LoginPage :45 - Sending text to : [[ChromeDriver: chrome on windows (f1a16ae0a1e8baef9704711c6cbf72c0)] -> name: Password]
+2023-12-17 13:12:387 INFO  HomePage :30 - Clicking on login link : [[ChromeDriver: chrome on windows (52cbe63ff5b7728a148f2c3fcbfe1894)] -> link text: Log in]
+2023-12-17 13:12:422 INFO  LoginPage :35 - Getting text from : [[ChromeDriver: chrome on windows (52cbe63ff5b7728a148f2c3fcbfe1894)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-12-17 13:12:436 INFO  LoginPage :40 - Sending text to : [[ChromeDriver: chrome on windows (52cbe63ff5b7728a148f2c3fcbfe1894)] -> id: Email]
+2023-12-17 13:12:496 INFO  LoginPage :45 - Sending text to : [[ChromeDriver: chrome on windows (52cbe63ff5b7728a148f2c3fcbfe1894)] -> name: Password]
+2023-12-17 13:12:391 INFO  HomePage :30 - Clicking on login link : [[ChromeDriver: chrome on windows (0b570e9d56437bbe7e5d6248a9eb7727)] -> link text: Log in]
+2023-12-17 13:12:430 INFO  LoginPage :35 - Getting text from : [[ChromeDriver: chrome on windows (0b570e9d56437bbe7e5d6248a9eb7727)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-12-17 13:12:666 INFO  HomePage :30 - Clicking on login link : [[ChromeDriver: chrome on windows (fd35958c7b3331c042ee27104c477278)] -> link text: Log in]
+2023-12-17 13:12:714 INFO  LoginPage :35 - Getting text from : [[ChromeDriver: chrome on windows (fd35958c7b3331c042ee27104c477278)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-12-17 13:12:730 INFO  LoginPage :40 - Sending text to : [[ChromeDriver: chrome on windows (fd35958c7b3331c042ee27104c477278)] -> id: Email]
+2023-12-17 13:12:801 INFO  LoginPage :45 - Sending text to : [[ChromeDriver: chrome on windows (fd35958c7b3331c042ee27104c477278)] -> name: Password]
+2023-12-17 13:12:458 INFO  HomePage :30 - Clicking on login link : [[ChromeDriver: chrome on windows (ef5ea784f14a31d2c70ef45fa527ee03)] -> link text: Log in]
+2023-12-17 13:12:496 INFO  LoginPage :35 - Getting text from : [[ChromeDriver: chrome on windows (ef5ea784f14a31d2c70ef45fa527ee03)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-12-17 13:12:509 INFO  LoginPage :40 - Sending text to : [[ChromeDriver: chrome on windows (ef5ea784f14a31d2c70ef45fa527ee03)] -> id: Email]
+2023-12-17 13:12:582 INFO  LoginPage :45 - Sending text to : [[ChromeDriver: chrome on windows (ef5ea784f14a31d2c70ef45fa527ee03)] -> name: Password]
+2023-12-17 13:12:726 INFO  HomePage :30 - Clicking on login link : [[ChromeDriver: chrome on windows (70534623a56e3445d5033094e3609f3b)] -> link text: Log in]
+2023-12-17 13:12:763 INFO  LoginPage :35 - Getting text from : [[ChromeDriver: chrome on windows (70534623a56e3445d5033094e3609f3b)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-12-17 13:12:788 INFO  LoginPage :40 - Sending text to : [[ChromeDriver: chrome on windows (70534623a56e3445d5033094e3609f3b)] -> id: Email]
+2023-12-17 13:12:867 INFO  LoginPage :45 - Sending text to : [[ChromeDriver: chrome on windows (70534623a56e3445d5033094e3609f3b)] -> name: Password]
+2023-12-17 14:12:134 INFO  HomePage :30 - Clicking on login link : [[ChromeDriver: chrome on windows (d4c156f28e4f1a782aef056a1f90823a)] -> link text: Log in]
+2023-12-17 14:12:177 INFO  LoginPage :35 - Getting text from : [[ChromeDriver: chrome on windows (d4c156f28e4f1a782aef056a1f90823a)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-12-17 14:12:862 INFO  HomePage :30 - Clicking on login link : [[ChromeDriver: chrome on windows (975f1a9b74e4113a1c92ffe1b543acf8)] -> link text: Log in]
+2023-12-17 14:12:899 INFO  LoginPage :35 - Getting text from : [[ChromeDriver: chrome on windows (975f1a9b74e4113a1c92ffe1b543acf8)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-12-17 14:12:917 INFO  LoginPage :40 - Sending text to : [[ChromeDriver: chrome on windows (975f1a9b74e4113a1c92ffe1b543acf8)] -> id: Email]
+2023-12-17 14:12:980 INFO  LoginPage :45 - Sending text to : [[ChromeDriver: chrome on windows (975f1a9b74e4113a1c92ffe1b543acf8)] -> name: Password]
+2023-12-17 14:12:872 INFO  HomePage :30 - Clicking on login link : [[ChromeDriver: chrome on windows (17d2ac32d53df6120faa7a8765029925)] -> link text: Log in]
+2023-12-17 14:12:924 INFO  LoginPage :35 - Getting text from : [[ChromeDriver: chrome on windows (17d2ac32d53df6120faa7a8765029925)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-12-17 14:12:942 INFO  LoginPage :40 - Sending text to : [[ChromeDriver: chrome on windows (17d2ac32d53df6120faa7a8765029925)] -> id: Email]
+2023-12-17 14:12:03 INFO  LoginPage :45 - Sending text to : [[ChromeDriver: chrome on windows (17d2ac32d53df6120faa7a8765029925)] -> name: Password]
+2023-12-17 14:12:319 INFO  HomePage :30 - Clicking on login link : [[ChromeDriver: chrome on windows (706f1a574dd36c1965ab49849cda47e4)] -> link text: Log in]
+2023-12-17 14:12:348 INFO  LoginPage :35 - Getting text from : [[ChromeDriver: chrome on windows (706f1a574dd36c1965ab49849cda47e4)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-12-17 14:12:363 INFO  LoginPage :40 - Sending text to : [[ChromeDriver: chrome on windows (706f1a574dd36c1965ab49849cda47e4)] -> id: Email]
+2023-12-17 14:12:424 INFO  LoginPage :45 - Sending text to : [[ChromeDriver: chrome on windows (706f1a574dd36c1965ab49849cda47e4)] -> name: Password]
+2023-12-17 14:12:824 INFO  HomePage :30 - Clicking on login link : [[ChromeDriver: chrome on windows (4ae5f635b059d3b01d03a6fa068c17c1)] -> link text: Log in]
+2023-12-17 14:12:864 INFO  LoginPage :35 - Getting text from : [[ChromeDriver: chrome on windows (4ae5f635b059d3b01d03a6fa068c17c1)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-12-17 14:12:878 INFO  LoginPage :40 - Sending text to : [[ChromeDriver: chrome on windows (4ae5f635b059d3b01d03a6fa068c17c1)] -> id: Email]
+2023-12-17 14:12:961 INFO  LoginPage :45 - Sending text to : [[ChromeDriver: chrome on windows (4ae5f635b059d3b01d03a6fa068c17c1)] -> name: Password]
+2023-12-17 14:12:302 INFO  HomePage :30 - Clicking on login link : [[ChromeDriver: chrome on windows (6be728e032a9035b2461adb20cbae2a8)] -> link text: Log in]
+2023-12-17 14:12:350 INFO  LoginPage :35 - Getting text from : [[ChromeDriver: chrome on windows (6be728e032a9035b2461adb20cbae2a8)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-12-17 14:12:827 INFO  HomePage :30 - Clicking on login link : [[ChromeDriver: chrome on windows (6f4a518651be07f224f2995a6145b828)] -> link text: Log in]
+2023-12-17 14:12:864 INFO  LoginPage :35 - Getting text from : [[ChromeDriver: chrome on windows (6f4a518651be07f224f2995a6145b828)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-12-17 14:12:884 INFO  LoginPage :40 - Sending text to : [[ChromeDriver: chrome on windows (6f4a518651be07f224f2995a6145b828)] -> id: Email]
+2023-12-17 14:12:967 INFO  LoginPage :45 - Sending text to : [[ChromeDriver: chrome on windows (6f4a518651be07f224f2995a6145b828)] -> name: Password]
+2023-12-17 14:12:977 INFO  HomePage :34 - Clicking on login link : [[ChromeDriver: chrome on windows (10e7f45c38a636666b7f27b7c2c76e66)] -> link text: Log in]
+2023-12-17 14:12:23 INFO  LoginPage :35 - Getting text from : [[ChromeDriver: chrome on windows (10e7f45c38a636666b7f27b7c2c76e66)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-12-17 14:12:48 INFO  LoginPage :40 - Sending text to : [[ChromeDriver: chrome on windows (10e7f45c38a636666b7f27b7c2c76e66)] -> id: Email]
+2023-12-17 14:12:133 INFO  LoginPage :45 - Sending text to : [[ChromeDriver: chrome on windows (10e7f45c38a636666b7f27b7c2c76e66)] -> name: Password]
+2023-12-17 14:12:103 INFO  HomePage :34 - Clicking on login link : [[ChromeDriver: chrome on windows (fa0fecf12393db35203e87044e073ada)] -> link text: Log in]
+2023-12-17 14:12:157 INFO  LoginPage :35 - Getting text from : [[ChromeDriver: chrome on windows (fa0fecf12393db35203e87044e073ada)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-12-17 14:12:263 INFO  HomePage :34 - Clicking on login link : [[ChromeDriver: chrome on windows (1b8bbbb6fe724f4c06095f50b0a47ab1)] -> link text: Log in]
+2023-12-17 14:12:308 INFO  LoginPage :35 - Getting text from : [[ChromeDriver: chrome on windows (1b8bbbb6fe724f4c06095f50b0a47ab1)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-12-17 14:12:338 INFO  LoginPage :40 - Sending text to : [[ChromeDriver: chrome on windows (1b8bbbb6fe724f4c06095f50b0a47ab1)] -> id: Email]
+2023-12-17 14:12:433 INFO  LoginPage :45 - Sending text to : [[ChromeDriver: chrome on windows (1b8bbbb6fe724f4c06095f50b0a47ab1)] -> name: Password]
+2023-12-17 14:12:162 INFO  HomePage :34 - Clicking on login link : [[ChromeDriver: chrome on windows (7975bb762f52dda8ce765400aec38afd)] -> link text: Log in]
+2023-12-17 14:12:206 INFO  LoginPage :35 - Getting text from : [[ChromeDriver: chrome on windows (7975bb762f52dda8ce765400aec38afd)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-12-17 14:12:227 INFO  LoginPage :40 - Sending text to : [[ChromeDriver: chrome on windows (7975bb762f52dda8ce765400aec38afd)] -> id: Email]
+2023-12-17 14:12:306 INFO  LoginPage :45 - Sending text to : [[ChromeDriver: chrome on windows (7975bb762f52dda8ce765400aec38afd)] -> name: Password]
+2023-12-17 14:12:823 INFO  HomePage :34 - Clicking on login link : [[ChromeDriver: chrome on windows (6ae002b66dda101fd992e9b729be8f65)] -> link text: Log in]
+2023-12-17 14:12:868 INFO  LoginPage :35 - Getting text from : [[ChromeDriver: chrome on windows (6ae002b66dda101fd992e9b729be8f65)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-12-17 14:12:884 INFO  LoginPage :40 - Sending text to : [[ChromeDriver: chrome on windows (6ae002b66dda101fd992e9b729be8f65)] -> id: Email]
+2023-12-17 14:12:968 INFO  LoginPage :45 - Sending text to : [[ChromeDriver: chrome on windows (6ae002b66dda101fd992e9b729be8f65)] -> name: Password]
+2023-12-17 14:12:58 INFO  HomePage :34 - Clicking on login link : [[ChromeDriver: chrome on windows (3199fb4c26f67940bdcd4eb07dbb4af1)] -> link text: Log in]
+2023-12-17 14:12:131 INFO  LoginPage :35 - Getting text from : [[ChromeDriver: chrome on windows (3199fb4c26f67940bdcd4eb07dbb4af1)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-12-17 14:12:155 INFO  LoginPage :40 - Sending text to : [[ChromeDriver: chrome on windows (3199fb4c26f67940bdcd4eb07dbb4af1)] -> id: Email]
+2023-12-17 14:12:265 INFO  LoginPage :45 - Sending text to : [[ChromeDriver: chrome on windows (3199fb4c26f67940bdcd4eb07dbb4af1)] -> name: Password]
+2023-12-17 14:12:327 INFO  HomePage :34 - Clicking on login link : [[ChromeDriver: chrome on windows (4d330e6eb88db6a2f9b45277184793f7)] -> link text: Log in]
+2023-12-17 14:12:411 INFO  LoginPage :35 - Getting text from : [[ChromeDriver: chrome on windows (4d330e6eb88db6a2f9b45277184793f7)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-12-17 14:12:438 INFO  LoginPage :40 - Sending text to : [[ChromeDriver: chrome on windows (4d330e6eb88db6a2f9b45277184793f7)] -> id: Email]
+2023-12-17 14:12:587 INFO  LoginPage :45 - Sending text to : [[ChromeDriver: chrome on windows (4d330e6eb88db6a2f9b45277184793f7)] -> name: Password]
+2023-12-17 14:12:542 INFO  HomePage :43 - Clicking on log out link : [[ChromeDriver: chrome on windows (4d330e6eb88db6a2f9b45277184793f7)] -> link text: Log out]
+2023-12-17 14:12:33 INFO  HomePage :34 - Clicking on login link : [[ChromeDriver: chrome on windows (cbb4a18de578b5834713ae348b608eb9)] -> link text: Log in]
+2023-12-17 14:12:83 INFO  LoginPage :35 - Getting text from : [[ChromeDriver: chrome on windows (cbb4a18de578b5834713ae348b608eb9)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-12-17 14:12:103 INFO  LoginPage :40 - Sending text to : [[ChromeDriver: chrome on windows (cbb4a18de578b5834713ae348b608eb9)] -> id: Email]
+2023-12-17 14:12:200 INFO  LoginPage :45 - Sending text to : [[ChromeDriver: chrome on windows (cbb4a18de578b5834713ae348b608eb9)] -> name: Password]
+2023-12-17 14:12:817 INFO  HomePage :43 - Clicking on log out link : [[ChromeDriver: chrome on windows (cbb4a18de578b5834713ae348b608eb9)] -> xpath: //a[normalize-space()='Log out']]
+2023-12-17 14:12:112 INFO  HomePage :34 - Clicking on login link : [[ChromeDriver: chrome on windows (573f1d91e2891363f52e377f529f6569)] -> link text: Log in]
+2023-12-17 14:12:154 INFO  LoginPage :35 - Getting text from : [[ChromeDriver: chrome on windows (573f1d91e2891363f52e377f529f6569)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-12-17 14:12:175 INFO  LoginPage :40 - Sending text to : [[ChromeDriver: chrome on windows (573f1d91e2891363f52e377f529f6569)] -> id: Email]
+2023-12-17 14:12:260 INFO  LoginPage :45 - Sending text to : [[ChromeDriver: chrome on windows (573f1d91e2891363f52e377f529f6569)] -> name: Password]
+2023-12-17 14:12:402 INFO  HomePage :44 - Clicking on log out link : [[ChromeDriver: chrome on windows (573f1d91e2891363f52e377f529f6569)] -> xpath: //a[normalize-space()='Log out']]
+2023-12-17 14:12:910 INFO  HomePage :34 - Clicking on login link : [[ChromeDriver: chrome on windows (a27ad02159c84bd6cc15dbbf80e53a39)] -> link text: Log in]
+2023-12-17 14:12:963 INFO  LoginPage :35 - Getting text from : [[ChromeDriver: chrome on windows (a27ad02159c84bd6cc15dbbf80e53a39)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-12-17 14:12:985 INFO  LoginPage :40 - Sending text to : [[ChromeDriver: chrome on windows (a27ad02159c84bd6cc15dbbf80e53a39)] -> id: Email]
+2023-12-17 14:12:75 INFO  LoginPage :45 - Sending text to : [[ChromeDriver: chrome on windows (a27ad02159c84bd6cc15dbbf80e53a39)] -> name: Password]
+2023-12-17 14:12:704 INFO  HomePage :34 - Clicking on login link : [[ChromeDriver: chrome on windows (e75ba42b16ec154f091756c3b13875cf)] -> link text: Log in]
+2023-12-17 14:12:760 INFO  LoginPage :35 - Getting text from : [[ChromeDriver: chrome on windows (e75ba42b16ec154f091756c3b13875cf)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-12-17 14:12:781 INFO  LoginPage :40 - Sending text to : [[ChromeDriver: chrome on windows (e75ba42b16ec154f091756c3b13875cf)] -> id: Email]
+2023-12-17 14:12:862 INFO  LoginPage :45 - Sending text to : [[ChromeDriver: chrome on windows (e75ba42b16ec154f091756c3b13875cf)] -> name: Password]
+2023-12-17 14:12:936 INFO  HomePage :44 - Clicking on log out link : [[ChromeDriver: chrome on windows (e75ba42b16ec154f091756c3b13875cf)] -> xpath: //a[normalize-space()='Log out']]
+2023-12-17 15:12:350 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (be66da3a653ceaed08687cf8207d86ab)] -> link text: Log in]
+2023-12-17 15:12:677 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (47835131ede13a04eb30b8a1d8d4c821)] -> link text: Log in]
+2023-12-17 15:12:440 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (3608403fd9cb995f3ad1c6074094be31)] -> link text: Log in]
+2023-12-17 15:12:482 INFO  LoginPage :35 - Getting text from : [[ChromeDriver: chrome on windows (3608403fd9cb995f3ad1c6074094be31)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-12-17 15:12:505 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (46243cb5343b083921e85d97edef4c89)] -> link text: Log in]
+2023-12-17 15:12:543 INFO  LoginPage :35 - Getting text from : [[ChromeDriver: chrome on windows (46243cb5343b083921e85d97edef4c89)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-12-17 15:12:568 INFO  LoginPage :40 - Sending text to : [[ChromeDriver: chrome on windows (46243cb5343b083921e85d97edef4c89)] -> id: Email]
+2023-12-17 15:12:661 INFO  LoginPage :45 - Sending text to : [[ChromeDriver: chrome on windows (46243cb5343b083921e85d97edef4c89)] -> name: Password]
+2023-12-17 15:12:107 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (35a049ace6e6805c0a71c8ebd8400115)] -> link text: Log in]
+2023-12-17 15:12:156 INFO  LoginPage :35 - Getting text from : [[ChromeDriver: chrome on windows (35a049ace6e6805c0a71c8ebd8400115)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-12-17 15:12:182 INFO  LoginPage :40 - Sending text to : [[ChromeDriver: chrome on windows (35a049ace6e6805c0a71c8ebd8400115)] -> id: Email]
+2023-12-17 15:12:278 INFO  LoginPage :45 - Sending text to : [[ChromeDriver: chrome on windows (35a049ace6e6805c0a71c8ebd8400115)] -> name: Password]
+2023-12-17 15:12:958 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (b7f1a82e92d6d73c5c554f1b4ecdf646)] -> link text: Log in]
+2023-12-17 15:12:11 INFO  LoginPage :35 - Getting text from : [[ChromeDriver: chrome on windows (b7f1a82e92d6d73c5c554f1b4ecdf646)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-12-17 15:12:30 INFO  LoginPage :40 - Sending text to : [[ChromeDriver: chrome on windows (b7f1a82e92d6d73c5c554f1b4ecdf646)] -> id: Email]
+2023-12-17 15:12:121 INFO  LoginPage :45 - Sending text to : [[ChromeDriver: chrome on windows (b7f1a82e92d6d73c5c554f1b4ecdf646)] -> name: Password]
+2023-12-17 15:12:551 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (9a7412e67e24265228bdbe8c4cb04d14)] -> link text: Log in]
+2023-12-17 15:12:625 INFO  LoginPage :35 - Getting text from : [[ChromeDriver: chrome on windows (9a7412e67e24265228bdbe8c4cb04d14)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-12-17 15:12:655 INFO  LoginPage :40 - Sending text to : [[ChromeDriver: chrome on windows (9a7412e67e24265228bdbe8c4cb04d14)] -> id: Email]
+2023-12-17 15:12:857 INFO  LoginPage :45 - Sending text to : [[ChromeDriver: chrome on windows (9a7412e67e24265228bdbe8c4cb04d14)] -> name: Password]
+2023-12-17 15:12:216 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (fb72428c0b5a100c65b98433dfb09092)] -> link text: Log in]
+2023-12-17 15:12:279 INFO  LoginPage :35 - Getting text from : [[ChromeDriver: chrome on windows (fb72428c0b5a100c65b98433dfb09092)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-12-17 15:12:308 INFO  LoginPage :40 - Sending text to : [[ChromeDriver: chrome on windows (fb72428c0b5a100c65b98433dfb09092)] -> id: Email]
+2023-12-17 15:12:460 INFO  LoginPage :45 - Sending text to : [[ChromeDriver: chrome on windows (fb72428c0b5a100c65b98433dfb09092)] -> name: Password]
+2023-12-17 15:12:712 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (8c4f2fc3429806497155c2d75e30c64b)] -> link text: Log in]
+2023-12-17 15:12:999 INFO  HomePage :49 - Clicking on register link : [[ChromeDriver: chrome on windows (8c4f2fc3429806497155c2d75e30c64b)] -> link text: Register]
+2023-12-17 15:12:591 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (398c73a175b0568e6889a8393d388277)] -> link text: Log in]
+2023-12-17 15:12:950 INFO  HomePage :49 - Clicking on register link : [[ChromeDriver: chrome on windows (398c73a175b0568e6889a8393d388277)] -> link text: Register]
+2023-12-17 16:12:975 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (9f260fb077f15a19d76461943eae0f66)] -> link text: Log in]
+2023-12-17 16:12:295 INFO  HomePage :49 - Clicking on register link : [[ChromeDriver: chrome on windows (9f260fb077f15a19d76461943eae0f66)] -> link text: Register]
+2023-12-17 16:12:396 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (e238f10fe2ffee0d77ded5158c84fd20)] -> link text: Log in]
+2023-12-17 16:12:444 INFO  LoginPage :35 - Getting text from : [[ChromeDriver: chrome on windows (e238f10fe2ffee0d77ded5158c84fd20)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-12-17 16:12:645 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (ae9f2fb1db8bde726cfecd444b6a3cbd)] -> link text: Log in]
+2023-12-17 16:12:681 INFO  LoginPage :35 - Getting text from : [[ChromeDriver: chrome on windows (ae9f2fb1db8bde726cfecd444b6a3cbd)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-12-17 16:12:705 INFO  LoginPage :40 - Sending text to : [[ChromeDriver: chrome on windows (ae9f2fb1db8bde726cfecd444b6a3cbd)] -> id: Email]
+2023-12-17 16:12:783 INFO  LoginPage :45 - Sending text to : [[ChromeDriver: chrome on windows (ae9f2fb1db8bde726cfecd444b6a3cbd)] -> name: Password]
+2023-12-17 16:12:958 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (0d7dbd007100e0e8d132f751d8f04399)] -> link text: Log in]
+2023-12-17 16:12:994 INFO  LoginPage :35 - Getting text from : [[ChromeDriver: chrome on windows (0d7dbd007100e0e8d132f751d8f04399)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-12-17 16:12:10 INFO  LoginPage :40 - Sending text to : [[ChromeDriver: chrome on windows (0d7dbd007100e0e8d132f751d8f04399)] -> id: Email]
+2023-12-17 16:12:73 INFO  LoginPage :45 - Sending text to : [[ChromeDriver: chrome on windows (0d7dbd007100e0e8d132f751d8f04399)] -> name: Password]
+2023-12-17 16:12:408 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (9acb6b88641a5948f838de42768b3f10)] -> link text: Log in]
+2023-12-17 16:12:455 INFO  LoginPage :35 - Getting text from : [[ChromeDriver: chrome on windows (9acb6b88641a5948f838de42768b3f10)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-12-17 16:12:473 INFO  LoginPage :40 - Sending text to : [[ChromeDriver: chrome on windows (9acb6b88641a5948f838de42768b3f10)] -> id: Email]
+2023-12-17 16:12:573 INFO  LoginPage :45 - Sending text to : [[ChromeDriver: chrome on windows (9acb6b88641a5948f838de42768b3f10)] -> name: Password]
+2023-12-17 16:12:988 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (cd35d69a0dfd84dd231778cb6553e64f)] -> link text: Log in]
+2023-12-17 16:12:30 INFO  LoginPage :35 - Getting text from : [[ChromeDriver: chrome on windows (cd35d69a0dfd84dd231778cb6553e64f)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-12-17 16:12:51 INFO  LoginPage :40 - Sending text to : [[ChromeDriver: chrome on windows (cd35d69a0dfd84dd231778cb6553e64f)] -> id: Email]
+2023-12-17 16:12:144 INFO  LoginPage :45 - Sending text to : [[ChromeDriver: chrome on windows (cd35d69a0dfd84dd231778cb6553e64f)] -> name: Password]
+2023-12-17 16:12:419 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (a78c5b26964822f0c668e7d98287c053)] -> link text: Log in]
+2023-12-17 16:12:478 INFO  LoginPage :35 - Getting text from : [[ChromeDriver: chrome on windows (a78c5b26964822f0c668e7d98287c053)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-12-17 16:12:504 INFO  LoginPage :40 - Sending text to : [[ChromeDriver: chrome on windows (a78c5b26964822f0c668e7d98287c053)] -> id: Email]
+2023-12-17 16:12:637 INFO  LoginPage :45 - Sending text to : [[ChromeDriver: chrome on windows (a78c5b26964822f0c668e7d98287c053)] -> name: Password]
+2023-12-17 16:12:802 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (6762c38d0e856558d7500ecb8c7a5b2a)] -> link text: Log in]
+2023-12-17 16:12:111 INFO  HomePage :49 - Clicking on register link : [[ChromeDriver: chrome on windows (6762c38d0e856558d7500ecb8c7a5b2a)] -> link text: Register]
+2023-12-17 16:12:160 INFO  RegisterPage :75 - Get registerText : Register
+2023-12-17 16:12:734 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (4b996c8bbdc61de8036507ab3372d292)] -> link text: Log in]
+2023-12-17 16:12:30 INFO  HomePage :49 - Clicking on register link : [[ChromeDriver: chrome on windows (4b996c8bbdc61de8036507ab3372d292)] -> link text: Register]
+2023-12-17 16:12:88 INFO  RegisterPage :75 - Get registerText : Register
+2023-12-17 17:12:79 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (38b186b38dc372a8c2d5de1a8029b4a3)] -> link text: Log in]
+2023-12-17 17:12:390 INFO  HomePage :49 - Clicking on register link : [[ChromeDriver: chrome on windows (38b186b38dc372a8c2d5de1a8029b4a3)] -> link text: Register]
+2023-12-17 17:12:455 INFO  RegisterPage :95 - Get registerText : Register
+2023-12-17 17:12:285 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (4bf8599d212371b6b45aa8b16a42b613)] -> link text: Log in]
+2023-12-17 17:12:602 INFO  HomePage :49 - Clicking on register link : [[ChromeDriver: chrome on windows (4bf8599d212371b6b45aa8b16a42b613)] -> link text: Register]
+2023-12-17 17:12:685 INFO  RegisterPage :145 - Click on 'REGISTER' button
+2023-12-17 17:12:739 INFO  RegisterPage :174 - Get First name is required field : First name is required.
+2023-12-17 17:12:782 INFO  RegisterPage :179 - Get Last name is required field : Last name is required.
+2023-12-17 17:12:817 INFO  RegisterPage :184 - Get email is required field : Email is required.
+2023-12-17 17:12:858 INFO  RegisterPage :189 - Get password is required field : Password is required.
+2023-12-17 17:12:897 INFO  RegisterPage :194 - Get confirm password is required field : 
+2023-12-17 17:12:688 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (ac4f8473aeea67711a1a0f153a87ca30)] -> link text: Log in]
+2023-12-17 17:12:11 INFO  HomePage :49 - Clicking on register link : [[ChromeDriver: chrome on windows (ac4f8473aeea67711a1a0f153a87ca30)] -> link text: Register]
+2023-12-17 17:12:73 INFO  RegisterPage :95 - Get registerText : Register
+2023-12-17 17:12:50 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (8785c1920b488c51148402f487df4522)] -> link text: Log in]
+2023-12-17 17:12:357 INFO  HomePage :49 - Clicking on register link : [[ChromeDriver: chrome on windows (8785c1920b488c51148402f487df4522)] -> link text: Register]
+2023-12-17 17:12:454 INFO  RegisterPage :145 - Click on 'REGISTER' button
+2023-12-17 17:12:506 INFO  RegisterPage :174 - Get First name is required field : First name is required.
+2023-12-17 17:12:546 INFO  RegisterPage :179 - Get Last name is required field : Last name is required.
+2023-12-17 17:12:581 INFO  RegisterPage :184 - Get email is required field : Email is required.
+2023-12-17 17:12:620 INFO  RegisterPage :189 - Get password is required field : Password is required.
+2023-12-17 17:12:788 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (5aba2b73ba3cbc80b118a5ddf4f7d282)] -> link text: Log in]
+2023-12-17 17:12:88 INFO  HomePage :49 - Clicking on register link : [[ChromeDriver: chrome on windows (5aba2b73ba3cbc80b118a5ddf4f7d282)] -> link text: Register]
+2023-12-17 17:12:184 INFO  RegisterPage :145 - Click on 'REGISTER' button
+2023-12-17 17:12:246 INFO  RegisterPage :174 - Get First name is required field : First name is required.
+2023-12-17 17:12:289 INFO  RegisterPage :179 - Get Last name is required field : Last name is required.
+2023-12-17 17:12:334 INFO  RegisterPage :184 - Get email is required field : Email is required.
+2023-12-17 17:12:389 INFO  RegisterPage :189 - Get password is required field : Password is required.
+2023-12-17 17:12:618 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (a10212cb55d03d259b74a5ad828fde31)] -> link text: Log in]
+2023-12-17 17:12:940 INFO  HomePage :49 - Clicking on register link : [[ChromeDriver: chrome on windows (a10212cb55d03d259b74a5ad828fde31)] -> link text: Register]
+2023-12-17 17:12:16 INFO  RegisterPage :145 - Click on 'REGISTER' button
+2023-12-17 17:12:72 INFO  RegisterPage :174 - Get First name is required field : First name is required.
+2023-12-17 17:12:117 INFO  RegisterPage :179 - Get Last name is required field : Last name is required.
+2023-12-17 17:12:149 INFO  RegisterPage :184 - Get email is required field : Email is required.
+2023-12-17 17:12:184 INFO  RegisterPage :189 - Get password is required field : Password is required.
+2023-12-17 17:12:222 INFO  RegisterPage :194 - Get confirm password is required field : Password is required.
+2023-12-17 18:12:772 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (5c21488a1ef1ac06844fbfe3f8bd79ce)] -> link text: Log in]
+2023-12-17 18:12:109 INFO  HomePage :49 - Clicking on register link : [[ChromeDriver: chrome on windows (5c21488a1ef1ac06844fbfe3f8bd79ce)] -> link text: Register]
+2023-12-17 18:12:168 INFO  RegisterPage :95 - Get registerText : Register
+2023-12-17 18:12:448 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (f847f28db686316c16f7c0870aa235a5)] -> link text: Log in]
+2023-12-17 18:12:800 INFO  HomePage :49 - Clicking on register link : [[ChromeDriver: chrome on windows (f847f28db686316c16f7c0870aa235a5)] -> link text: Register]
+2023-12-17 18:12:904 INFO  RegisterPage :145 - Click on 'REGISTER' button
+2023-12-17 18:12:959 INFO  RegisterPage :174 - Get First name is required field : First name is required.
+2023-12-17 18:12:998 INFO  RegisterPage :179 - Get Last name is required field : Last name is required.
+2023-12-17 18:12:41 INFO  RegisterPage :184 - Get email is required field : Email is required.
+2023-12-17 18:12:83 INFO  RegisterPage :189 - Get password is required field : Password is required.
+2023-12-17 18:12:120 INFO  RegisterPage :194 - Get confirm password is required field : Password is required.
+2023-12-17 18:12:478 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (17ddb176987607c311eaf47f84a90292)] -> link text: Log in]
+2023-12-17 18:12:869 INFO  HomePage :49 - Clicking on register link : [[ChromeDriver: chrome on windows (17ddb176987607c311eaf47f84a90292)] -> link text: Register]
+2023-12-17 18:12:939 INFO  RegisterPage :102 - Select 'Female' radio button
+2023-12-17 18:12:102 INFO  RegisterPage :111 - Enter Firstname : 'Rahul' to firstName field
+2023-12-17 18:12:176 INFO  RegisterPage :116 - Enter Lastname : 'Dravid' to lastName field
+2023-12-17 18:12:473 INFO  RegisterPage :123 - Select day : '22', month : 'February', year : '1980' for DateOfBirth
+2023-12-17 18:12:544 INFO  RegisterPage :129 - Enter Email : 'rd1234@gmial.com' to email field
+2023-12-17 18:12:611 INFO  RegisterPage :134 - Enter Password : 'rd123' to password field
+2023-12-17 18:12:712 INFO  RegisterPage :139 - Enter Confirm password : 'rd123' to confirm password field
+2023-12-17 18:12:776 INFO  RegisterPage :145 - Click on 'REGISTER' button
+2023-12-17 19:12:172 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (180bc46d7855c7717d4ce57a9189464f)] -> link text: Log in]
+2023-12-17 19:12:226 INFO  HomePage :87 - Click on 'Computer' tab
+2023-12-17 19:12:701 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (1c2cae221fe04a96776a91d4bb350b0a)] -> link text: Log in]
+2023-12-17 19:12:756 INFO  HomePage :87 - Click on 'Computer' tab
+2023-12-17 19:12:136 INFO  ComputerPage :25 - Get pageTitle text : Computers
+2023-12-17 19:12:14 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (53e39a2c0cae8144a0ffbff96a3cc715)] -> link text: Log in]
+2023-12-17 19:12:59 INFO  HomePage :87 - Click on 'Computer' tab
+2023-12-17 19:12:470 INFO  ComputerPage :25 - Get pageTitle text : Computers
+2023-12-17 20:12:892 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (5d4c34c17e2fb1b4812a5478fdcc5dc2)] -> link text: Log in]
+2023-12-17 20:12:971 INFO  HomePage :87 - Click on 'Computer' tab
+2023-12-17 20:12:414 INFO  ComputerPage :25 - Get pageTitle text : Computers
+2023-12-17 20:12:140 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (3c5e08f27959709b5d96a45a74d62fbb)] -> link text: Log in]
+2023-12-17 20:12:235 INFO  HomePage :87 - Click on 'Computer' tab
+2023-12-17 20:12:734 INFO  ComputerPage :32 - Click on 'Desktops' link
+2023-12-17 20:12:541 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (4f1c6f2af3479275179a8c580e3d123c)] -> link text: Log in]
+2023-12-17 20:12:621 INFO  HomePage :87 - Click on 'Computer' tab
+2023-12-17 20:12:02 INFO  ComputerPage :25 - Get pageTitle text : Computers
+2023-12-17 20:12:505 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (e78817ea3a364923bd72dce3a39c07fe)] -> link text: Log in]
+2023-12-17 20:12:548 INFO  HomePage :87 - Click on 'Computer' tab
+2023-12-17 20:12:994 INFO  ComputerPage :32 - Click on 'Desktops' link
+2023-12-17 20:12:390 INFO  DesktopsPage :34 - Get pageTitle text Desktops
+2023-12-17 20:12:453 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (60916633a42afe68ac770eda9c4b84b5)] -> link text: Log in]
+2023-12-17 20:12:511 INFO  HomePage :87 - Click on 'Computer' tab
+2023-12-17 20:12:915 INFO  ComputerPage :25 - Get pageTitle text : Computers
+2023-12-17 20:12:791 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (053bc0abb6e888a8d79bdd2737ca085c)] -> link text: Log in]
+2023-12-17 20:12:827 INFO  HomePage :87 - Click on 'Computer' tab
+2023-12-17 20:12:173 INFO  ComputerPage :32 - Click on 'Desktops' link
+2023-12-17 20:12:559 INFO  DesktopsPage :43 - Get pageTitle text Desktops
+2023-12-17 20:12:543 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (d93031eba809397e4f8d5f976056c226)] -> link text: Log in]
+2023-12-17 20:12:601 INFO  HomePage :87 - Click on 'Computer' tab
+2023-12-17 20:12:05 INFO  ComputerPage :32 - Click on 'Desktops' link
+2023-12-17 20:12:611 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (fe240e8fefd71ee090a29454c7b5591a)] -> link text: Log in]
+2023-12-17 20:12:677 INFO  HomePage :87 - Click on 'Computer' tab
+2023-12-17 20:12:90 INFO  ComputerPage :25 - Get pageTitle text : Computers
+2023-12-17 20:12:200 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (23ec38d9dc0a86f02ccedc2b5bd1d81e)] -> link text: Log in]
+2023-12-17 20:12:251 INFO  HomePage :87 - Click on 'Computer' tab
+2023-12-17 20:12:624 INFO  ComputerPage :32 - Click on 'Desktops' link
+2023-12-17 20:12:11 INFO  DesktopsPage :43 - Get pageTitle text Desktops
+2023-12-17 20:12:612 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (3bc67dc08447746462dbedf836f3d74a)] -> link text: Log in]
+2023-12-17 20:12:646 INFO  HomePage :87 - Click on 'Computer' tab
+2023-12-17 20:12:33 INFO  ComputerPage :32 - Click on 'Desktops' link
+2023-12-17 20:12:874 INFO  BuildYourOwnComputerPage :56 - Select processor '2.2 GHz Intel Pentium Dual-Core E2200'
+2023-12-17 20:12:958 INFO  BuildYourOwnComputerPage :61 - Select RAM '2 GB'
+2023-12-17 20:12:18 INFO  BuildYourOwnComputerPage :68 - Select HDD '320 GB'
+2023-12-17 20:12:69 INFO  BuildYourOwnComputerPage :78 - Select HDD 'Vista Home [+$50.00]'
+2023-12-17 20:12:125 INFO  BuildYourOwnComputerPage :88 - Select Software '[[ChromeDriver: chrome on windows (3bc67dc08447746462dbedf836f3d74a)] -> xpath: //dd[@id='product_attribute_input_5']//li/label]'
+2023-12-17 20:12:169 INFO  BuildYourOwnComputerPage :96 - Click on 'ADD TO CART' Button
+2023-12-17 20:12:828 INFO  BuildYourOwnComputerPage :101 - Get productAdded Message : The product has been added to your shopping cart
+2023-12-17 20:12:564 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (366deeff362b7a552756f4311a5e96e0)] -> link text: Log in]
+2023-12-17 20:12:601 INFO  HomePage :87 - Click on 'Computer' tab
+2023-12-17 20:12:969 INFO  ComputerPage :32 - Click on 'Desktops' link
+2023-12-17 20:12:821 INFO  BuildYourOwnComputerPage :56 - Select processor '2.5 GHz Intel Pentium Dual-Core E2200 [+$15.00]'
+2023-12-17 20:12:922 INFO  BuildYourOwnComputerPage :61 - Select RAM '4GB [+$20.00]'
+2023-12-17 20:12:44 INFO  BuildYourOwnComputerPage :68 - Select HDD '400 GB [+$100.00]'
+2023-12-17 20:12:125 INFO  BuildYourOwnComputerPage :78 - Select HDD 'Vista Premium [+$60.00]'
+2023-12-17 20:12:200 INFO  BuildYourOwnComputerPage :88 - Select Software '[[ChromeDriver: chrome on windows (366deeff362b7a552756f4311a5e96e0)] -> xpath: //dd[@id='product_attribute_input_5']//li/label]'
+2023-12-17 20:12:267 INFO  BuildYourOwnComputerPage :96 - Click on 'ADD TO CART' Button
+2023-12-17 20:12:52 INFO  BuildYourOwnComputerPage :101 - Get productAdded Message : The product has been added to your shopping cart
+2023-12-17 20:12:534 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (701d93a8513c70411bb57b9384e10522)] -> link text: Log in]
+2023-12-17 20:12:685 INFO  HomePage :87 - Click on 'Computer' tab
+2023-12-17 20:12:183 INFO  ComputerPage :32 - Click on 'Desktops' link
+2023-12-17 20:12:585 INFO  BuildYourOwnComputerPage :56 - Select processor '2.5 GHz Intel Pentium Dual-Core E2200 [+$15.00]'
+2023-12-17 20:12:714 INFO  BuildYourOwnComputerPage :61 - Select RAM '8GB [+$60.00]'
+2023-12-17 20:12:797 INFO  BuildYourOwnComputerPage :68 - Select HDD '320 GB'
+2023-12-17 20:12:878 INFO  BuildYourOwnComputerPage :78 - Select HDD 'Vista Home [+$50.00]'
+2023-12-17 20:12:982 INFO  BuildYourOwnComputerPage :88 - Select Software '[[ChromeDriver: chrome on windows (701d93a8513c70411bb57b9384e10522)] -> xpath: //dd[@id='product_attribute_input_5']//li/label]'
+2023-12-17 20:12:58 INFO  BuildYourOwnComputerPage :96 - Click on 'ADD TO CART' Button
+2023-12-17 20:12:320 INFO  BuildYourOwnComputerPage :101 - Get productAdded Message : The product has been added to your shopping cart
+2023-12-17 21:12:691 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (2d037f31675322c40e48d756c7223cb1)] -> link text: Log in]
+2023-12-17 21:12:748 INFO  HomePage :87 - Click on 'Computer' tab
+2023-12-17 21:12:157 INFO  ComputerPage :25 - Get pageTitle text : Computers
+2023-12-17 21:12:391 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (7f29efbc5956486f3bf85dba659134f3)] -> link text: Log in]
+2023-12-17 21:12:440 INFO  HomePage :87 - Click on 'Computer' tab
+2023-12-17 21:12:865 INFO  ComputerPage :32 - Click on 'Desktops' link
+2023-12-17 21:12:416 INFO  DesktopsPage :43 - Get pageTitle text Desktops
+2023-12-17 21:12:412 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (3e7d6428f2a4d896c426bb9480597465)] -> link text: Log in]
+2023-12-17 21:12:446 INFO  HomePage :87 - Click on 'Computer' tab
+2023-12-17 21:12:905 INFO  ComputerPage :32 - Click on 'Desktops' link
+2023-12-17 21:12:828 INFO  BuildYourOwnComputerPage :56 - Select processor '2.2 GHz Intel Pentium Dual-Core E2200'
+2023-12-17 21:12:907 INFO  BuildYourOwnComputerPage :61 - Select RAM '2 GB'
+2023-12-17 21:12:971 INFO  BuildYourOwnComputerPage :68 - Select HDD '320 GB'
+2023-12-17 21:12:22 INFO  BuildYourOwnComputerPage :78 - Select HDD 'Vista Home [+$50.00]'
+2023-12-17 21:12:85 INFO  BuildYourOwnComputerPage :88 - Select Software '[[ChromeDriver: chrome on windows (3e7d6428f2a4d896c426bb9480597465)] -> xpath: //dd[@id='product_attribute_input_5']//li/label]'
+2023-12-17 21:12:142 INFO  BuildYourOwnComputerPage :96 - Click on 'ADD TO CART' Button
+2023-12-17 21:12:796 INFO  BuildYourOwnComputerPage :101 - Get productAdded Message : The product has been added to your shopping cart
+2023-12-17 21:12:998 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (80ef78c5f2226baafd92cdfba8c1342a)] -> link text: Log in]
+2023-12-17 21:12:34 INFO  HomePage :87 - Click on 'Computer' tab
+2023-12-17 21:12:487 INFO  ComputerPage :32 - Click on 'Desktops' link
+2023-12-17 21:12:430 INFO  BuildYourOwnComputerPage :56 - Select processor '2.5 GHz Intel Pentium Dual-Core E2200 [+$15.00]'
+2023-12-17 21:12:512 INFO  BuildYourOwnComputerPage :61 - Select RAM '4GB [+$20.00]'
+2023-12-17 21:12:586 INFO  BuildYourOwnComputerPage :68 - Select HDD '400 GB [+$100.00]'
+2023-12-17 21:12:651 INFO  BuildYourOwnComputerPage :78 - Select HDD 'Vista Premium [+$60.00]'
+2023-12-17 21:12:716 INFO  BuildYourOwnComputerPage :88 - Select Software '[[ChromeDriver: chrome on windows (80ef78c5f2226baafd92cdfba8c1342a)] -> xpath: //dd[@id='product_attribute_input_5']//li/label]'
+2023-12-17 21:12:763 INFO  BuildYourOwnComputerPage :96 - Click on 'ADD TO CART' Button
+2023-12-17 21:12:992 INFO  BuildYourOwnComputerPage :101 - Get productAdded Message : The product has been added to your shopping cart
+2023-12-17 21:12:441 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (27d55348c64dda054bbb0c2c9f2d72b7)] -> link text: Log in]
+2023-12-17 21:12:535 INFO  HomePage :87 - Click on 'Computer' tab
+2023-12-17 21:12:110 INFO  ComputerPage :32 - Click on 'Desktops' link
+2023-12-17 21:12:489 INFO  BuildYourOwnComputerPage :56 - Select processor '2.5 GHz Intel Pentium Dual-Core E2200 [+$15.00]'
+2023-12-17 21:12:650 INFO  BuildYourOwnComputerPage :61 - Select RAM '8GB [+$60.00]'
+2023-12-17 21:12:736 INFO  BuildYourOwnComputerPage :68 - Select HDD '320 GB'
+2023-12-17 21:12:825 INFO  BuildYourOwnComputerPage :78 - Select HDD 'Vista Home [+$50.00]'
+2023-12-17 21:12:936 INFO  BuildYourOwnComputerPage :88 - Select Software '[[ChromeDriver: chrome on windows (27d55348c64dda054bbb0c2c9f2d72b7)] -> xpath: //dd[@id='product_attribute_input_5']//li/label]'
+2023-12-17 21:12:34 INFO  BuildYourOwnComputerPage :96 - Click on 'ADD TO CART' Button
+2023-12-17 21:12:745 INFO  BuildYourOwnComputerPage :101 - Get productAdded Message : The product has been added to your shopping cart
+2023-12-17 21:12:963 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (77aadff43f9c7186e27fcb38a5d46f02)] -> link text: Log in]
+2023-12-17 21:12:01 INFO  LoginPage :35 - Getting text from : [[ChromeDriver: chrome on windows (77aadff43f9c7186e27fcb38a5d46f02)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-12-17 21:12:971 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (b3310659283982474c7cddb686dca15b)] -> link text: Log in]
+2023-12-17 21:12:38 INFO  LoginPage :35 - Getting text from : [[ChromeDriver: chrome on windows (b3310659283982474c7cddb686dca15b)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-12-17 21:12:62 INFO  LoginPage :40 - Sending text to : [[ChromeDriver: chrome on windows (b3310659283982474c7cddb686dca15b)] -> id: Email]
+2023-12-17 21:12:188 INFO  LoginPage :45 - Sending text to : [[ChromeDriver: chrome on windows (b3310659283982474c7cddb686dca15b)] -> name: Password]
+2023-12-17 21:12:148 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (cd0a73eef48f58c1b022f8f27d8ab4da)] -> link text: Log in]
+2023-12-17 21:12:248 INFO  LoginPage :35 - Getting text from : [[ChromeDriver: chrome on windows (cd0a73eef48f58c1b022f8f27d8ab4da)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-12-17 21:12:282 INFO  LoginPage :40 - Sending text to : [[ChromeDriver: chrome on windows (cd0a73eef48f58c1b022f8f27d8ab4da)] -> id: Email]
+2023-12-17 21:12:468 INFO  LoginPage :45 - Sending text to : [[ChromeDriver: chrome on windows (cd0a73eef48f58c1b022f8f27d8ab4da)] -> name: Password]
+2023-12-17 21:12:946 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (e62ab202f87013b53ce52708f54fc7f6)] -> link text: Log in]
+2023-12-17 21:12:12 INFO  LoginPage :35 - Getting text from : [[ChromeDriver: chrome on windows (e62ab202f87013b53ce52708f54fc7f6)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-12-17 21:12:36 INFO  LoginPage :40 - Sending text to : [[ChromeDriver: chrome on windows (e62ab202f87013b53ce52708f54fc7f6)] -> id: Email]
+2023-12-17 21:12:132 INFO  LoginPage :45 - Sending text to : [[ChromeDriver: chrome on windows (e62ab202f87013b53ce52708f54fc7f6)] -> name: Password]
+2023-12-17 21:12:218 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (69ea6958aaa58c65b41e1e79471f0334)] -> link text: Log in]
+2023-12-17 21:12:308 INFO  LoginPage :35 - Getting text from : [[ChromeDriver: chrome on windows (69ea6958aaa58c65b41e1e79471f0334)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-12-17 21:12:336 INFO  LoginPage :40 - Sending text to : [[ChromeDriver: chrome on windows (69ea6958aaa58c65b41e1e79471f0334)] -> id: Email]
+2023-12-17 21:12:537 INFO  LoginPage :45 - Sending text to : [[ChromeDriver: chrome on windows (69ea6958aaa58c65b41e1e79471f0334)] -> name: Password]
+2023-12-17 21:12:990 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (630c6d65e3de605a23132295697ff8a5)] -> link text: Log in]
+2023-12-17 21:12:81 INFO  LoginPage :35 - Getting text from : [[ChromeDriver: chrome on windows (630c6d65e3de605a23132295697ff8a5)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-12-17 21:12:115 INFO  LoginPage :40 - Sending text to : [[ChromeDriver: chrome on windows (630c6d65e3de605a23132295697ff8a5)] -> id: Email]
+2023-12-17 21:12:265 INFO  LoginPage :45 - Sending text to : [[ChromeDriver: chrome on windows (630c6d65e3de605a23132295697ff8a5)] -> name: Password]
+2023-12-17 21:12:488 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (7dfd6685b431a1cd21f93b75f3a3a65f)] -> link text: Log in]
+2023-12-17 21:12:828 INFO  HomePage :49 - Clicking on register link : [[ChromeDriver: chrome on windows (7dfd6685b431a1cd21f93b75f3a3a65f)] -> link text: Register]
+2023-12-17 21:12:885 INFO  RegisterPage :95 - Get registerText : Register
+2023-12-17 21:12:340 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (e0078a83266262e99979fbfd79bed02b)] -> link text: Log in]
+2023-12-17 21:12:637 INFO  HomePage :49 - Clicking on register link : [[ChromeDriver: chrome on windows (e0078a83266262e99979fbfd79bed02b)] -> link text: Register]
+2023-12-17 21:12:712 INFO  RegisterPage :145 - Click on 'REGISTER' button
+2023-12-17 21:12:752 INFO  RegisterPage :174 - Get First name is required field : First name is required.
+2023-12-17 21:12:779 INFO  RegisterPage :179 - Get Last name is required field : Last name is required.
+2023-12-17 21:12:818 INFO  RegisterPage :184 - Get email is required field : Email is required.
+2023-12-17 21:12:852 INFO  RegisterPage :189 - Get password is required field : Password is required.
+2023-12-17 21:12:883 INFO  RegisterPage :194 - Get confirm password is required field : Password is required.
+2023-12-17 21:12:825 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (aea6d4be5100d7a99ba278e6c4035295)] -> link text: Log in]
+2023-12-17 21:12:122 INFO  HomePage :49 - Clicking on register link : [[ChromeDriver: chrome on windows (aea6d4be5100d7a99ba278e6c4035295)] -> link text: Register]
+2023-12-17 21:12:169 INFO  RegisterPage :102 - Select 'Female' radio button
+2023-12-17 21:12:273 INFO  RegisterPage :111 - Enter Firstname : 'Alia' to firstName field
+2023-12-17 21:12:339 INFO  RegisterPage :116 - Enter Lastname : 'Bhatt' to lastName field
+2023-12-17 21:12:619 INFO  RegisterPage :123 - Select day : '22', month : 'February', year : '1980' for DateOfBirth
+2023-12-17 21:12:689 INFO  RegisterPage :129 - Enter Email : 'alia1234@gmial.com' to email field
+2023-12-17 21:12:746 INFO  RegisterPage :134 - Enter Password : 'bhatt123' to password field
+2023-12-17 21:12:804 INFO  RegisterPage :139 - Enter Confirm password : 'bhatt123' to confirm password field
+2023-12-17 21:12:288 INFO  RegisterPage :145 - Click on 'REGISTER' button
+2023-12-17 21:12:326 INFO  RegisterPage :163 - Get your reg completed text : Your registration completed
+2023-12-17 21:12:376 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (1ea9118ca5f65c606947ee157637b247)] -> link text: Log in]
+2023-12-17 21:12:445 INFO  HomePage :87 - Click on 'Computer' tab
+2023-12-17 21:12:855 INFO  ComputerPage :25 - Get pageTitle text : Computers
+2023-12-17 21:12:471 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (3aafce84d6dd797efdfa633c7edc8ff6)] -> link text: Log in]
+2023-12-17 21:12:506 INFO  HomePage :87 - Click on 'Computer' tab
+2023-12-17 21:12:869 INFO  ComputerPage :32 - Click on 'Desktops' link
+2023-12-17 21:12:342 INFO  DesktopsPage :43 - Get pageTitle text Desktops
+2023-12-17 21:12:175 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (469b75bec8c21407d91eca70c8dbb714)] -> link text: Log in]
+2023-12-17 21:12:838 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (a432a689318fda8d35da65161a47bbd8)] -> link text: Log in]
+2023-12-17 21:12:901 INFO  HomePage :87 - Click on 'Computer' tab
+2023-12-17 21:12:326 INFO  ComputerPage :32 - Click on 'Desktops' link
+2023-12-17 21:12:176 INFO  BuildYourOwnComputerPage :56 - Select processor '2.5 GHz Intel Pentium Dual-Core E2200 [+$15.00]'
+2023-12-17 21:12:296 INFO  BuildYourOwnComputerPage :61 - Select RAM '8GB [+$60.00]'
+2023-12-17 21:12:370 INFO  BuildYourOwnComputerPage :68 - Select HDD '320 GB'
+2023-12-17 21:12:456 INFO  BuildYourOwnComputerPage :78 - Select HDD 'Vista Home [+$50.00]'
+2023-12-17 21:12:548 INFO  BuildYourOwnComputerPage :88 - Select Software '[[ChromeDriver: chrome on windows (a432a689318fda8d35da65161a47bbd8)] -> xpath: //dd[@id='product_attribute_input_5']//li/label]'
+2023-12-17 21:12:604 INFO  BuildYourOwnComputerPage :96 - Click on 'ADD TO CART' Button
+2023-12-17 21:12:839 INFO  BuildYourOwnComputerPage :101 - Get productAdded Message : The product has been added to your shopping cart
+2023-12-17 21:12:596 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (0072ff403cf48c2d60642b6480c5abff)] -> link text: Log in]
+2023-12-17 21:12:671 INFO  LoginPage :35 - Getting text from : [[ChromeDriver: chrome on windows (0072ff403cf48c2d60642b6480c5abff)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-12-17 21:12:331 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (ee84cbca578e5728cfef15591707d28d)] -> link text: Log in]
+2023-12-17 21:12:515 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (ff5fad49726f538f896a9e87104d2feb)] -> link text: Log in]
+2023-12-17 21:12:36 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (6f24582c4f9d39a56349fae565ff0721)] -> link text: Log in]
+2023-12-17 21:12:107 INFO  LoginPage :35 - Getting text from : [[ChromeDriver: chrome on windows (6f24582c4f9d39a56349fae565ff0721)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-12-17 21:12:137 INFO  LoginPage :40 - Sending text to : [[ChromeDriver: chrome on windows (6f24582c4f9d39a56349fae565ff0721)] -> id: Email]
+2023-12-17 21:12:232 INFO  LoginPage :45 - Sending text to : [[ChromeDriver: chrome on windows (6f24582c4f9d39a56349fae565ff0721)] -> name: Password]
+2023-12-17 21:12:742 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (9594170d93e9e84eaf02631c7cdd0d3d)] -> link text: Log in]
+2023-12-17 21:12:829 INFO  LoginPage :35 - Getting text from : [[ChromeDriver: chrome on windows (9594170d93e9e84eaf02631c7cdd0d3d)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-12-17 21:12:858 INFO  LoginPage :40 - Sending text to : [[ChromeDriver: chrome on windows (9594170d93e9e84eaf02631c7cdd0d3d)] -> id: Email]
+2023-12-17 21:12:969 INFO  LoginPage :45 - Sending text to : [[ChromeDriver: chrome on windows (9594170d93e9e84eaf02631c7cdd0d3d)] -> name: Password]
+2023-12-17 21:12:137 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (8e2ed7157395301e743812cb73f0535d)] -> link text: Log in]
+2023-12-17 21:12:176 INFO  LoginPage :35 - Getting text from : [[ChromeDriver: chrome on windows (8e2ed7157395301e743812cb73f0535d)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-12-17 21:12:195 INFO  LoginPage :40 - Sending text to : [[ChromeDriver: chrome on windows (8e2ed7157395301e743812cb73f0535d)] -> id: Email]
+2023-12-17 21:12:284 INFO  LoginPage :45 - Sending text to : [[ChromeDriver: chrome on windows (8e2ed7157395301e743812cb73f0535d)] -> name: Password]
+2023-12-17 21:12:738 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (07c94f45df337faa37a0ab99ec6393c7)] -> link text: Log in]
+2023-12-17 21:12:57 INFO  HomePage :49 - Clicking on register link : [[ChromeDriver: chrome on windows (07c94f45df337faa37a0ab99ec6393c7)] -> link text: Register]
+2023-12-17 21:12:116 INFO  RegisterPage :95 - Get registerText : Register
+2023-12-17 21:12:727 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (15de907a99bc7b87eeea6cc57d43ee0d)] -> link text: Log in]
+2023-12-17 21:12:80 INFO  HomePage :49 - Clicking on register link : [[ChromeDriver: chrome on windows (15de907a99bc7b87eeea6cc57d43ee0d)] -> link text: Register]
+2023-12-17 21:12:174 INFO  RegisterPage :145 - Click on 'REGISTER' button
+2023-12-17 21:12:227 INFO  RegisterPage :174 - Get First name is required field : First name is required.
+2023-12-17 21:12:262 INFO  RegisterPage :179 - Get Last name is required field : Last name is required.
+2023-12-17 21:12:321 INFO  RegisterPage :184 - Get email is required field : Email is required.
+2023-12-17 21:12:356 INFO  RegisterPage :189 - Get password is required field : Password is required.
+2023-12-17 21:12:397 INFO  RegisterPage :194 - Get confirm password is required field : Password is required.
+2023-12-17 21:12:540 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (2cf92ae0d80bd35ff20e0ba11336d794)] -> link text: Log in]
+2023-12-17 21:12:913 INFO  HomePage :49 - Clicking on register link : [[ChromeDriver: chrome on windows (2cf92ae0d80bd35ff20e0ba11336d794)] -> link text: Register]
+2023-12-17 21:12:997 INFO  RegisterPage :102 - Select 'Female' radio button
+2023-12-17 21:12:156 INFO  RegisterPage :111 - Enter Firstname : 'Alia' to firstName field
+2023-12-17 21:12:251 INFO  RegisterPage :116 - Enter Lastname : 'Bhatt' to lastName field
+2023-12-17 21:12:561 INFO  RegisterPage :123 - Select day : '22', month : 'February', year : '1980' for DateOfBirth
+2023-12-17 21:12:630 INFO  RegisterPage :129 - Enter Email : 'alia1234@gmial.com' to email field
+2023-12-17 21:12:706 INFO  RegisterPage :134 - Enter Password : 'bhatt123' to password field
+2023-12-17 21:12:809 INFO  RegisterPage :139 - Enter Confirm password : 'bhatt123' to confirm password field
+2023-12-17 21:12:334 INFO  RegisterPage :145 - Click on 'REGISTER' button
+2023-12-17 21:12:374 INFO  RegisterPage :163 - Get your reg completed text : Your registration completed
+2023-12-18 12:12:142 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (ace9cc4401c8c3ddf5aa4ca3cb8653f6)] -> link text: Log in]
+2023-12-18 12:12:181 INFO  HomePage :87 - Click on 'Computer' tab
+2023-12-18 12:12:565 INFO  ComputerPage :25 - Get pageTitle text : Computers
+2023-12-18 12:12:683 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (c8c9bb553766e0be55e3116663ef6be0)] -> link text: Log in]
+2023-12-18 12:12:715 INFO  HomePage :87 - Click on 'Computer' tab
+2023-12-18 12:12:230 INFO  ComputerPage :32 - Click on 'Desktops' link
+2023-12-18 12:12:572 INFO  DesktopsPage :43 - Get pageTitle text Desktops
+2023-12-18 12:12:525 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (7a265deb13222964f5f04e071cb42828)] -> link text: Log in]
+2023-12-18 12:12:562 INFO  HomePage :87 - Click on 'Computer' tab
+2023-12-18 12:12:943 INFO  ComputerPage :32 - Click on 'Desktops' link
+2023-12-18 12:12:723 INFO  BuildYourOwnComputerPage :56 - Select processor '2.2 GHz Intel Pentium Dual-Core E2200'
+2023-12-18 12:12:797 INFO  BuildYourOwnComputerPage :61 - Select RAM '2 GB'
+2023-12-18 12:12:855 INFO  BuildYourOwnComputerPage :68 - Select HDD '320 GB'
+2023-12-18 12:12:906 INFO  BuildYourOwnComputerPage :78 - Select HDD 'Vista Home [+$50.00]'
+2023-12-18 12:12:954 INFO  BuildYourOwnComputerPage :88 - Select Software '[[ChromeDriver: chrome on windows (7a265deb13222964f5f04e071cb42828)] -> xpath: //dd[@id='product_attribute_input_5']//li/label]'
+2023-12-18 12:12:993 INFO  BuildYourOwnComputerPage :96 - Click on 'ADD TO CART' Button
+2023-12-18 12:12:691 INFO  BuildYourOwnComputerPage :101 - Get productAdded Message : The product has been added to your shopping cart
+2023-12-18 12:12:299 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (9d0f46523a6d3cc5371e65900e0d6290)] -> link text: Log in]
+2023-12-18 12:12:332 INFO  HomePage :87 - Click on 'Computer' tab
+2023-12-18 12:12:660 INFO  ComputerPage :32 - Click on 'Desktops' link
+2023-12-18 12:12:501 INFO  BuildYourOwnComputerPage :56 - Select processor '2.5 GHz Intel Pentium Dual-Core E2200 [+$15.00]'
+2023-12-18 12:12:583 INFO  BuildYourOwnComputerPage :61 - Select RAM '4GB [+$20.00]'
+2023-12-18 12:12:644 INFO  BuildYourOwnComputerPage :68 - Select HDD '400 GB [+$100.00]'
+2023-12-18 12:12:697 INFO  BuildYourOwnComputerPage :78 - Select HDD 'Vista Premium [+$60.00]'
+2023-12-18 12:12:754 INFO  BuildYourOwnComputerPage :88 - Select Software '[[ChromeDriver: chrome on windows (9d0f46523a6d3cc5371e65900e0d6290)] -> xpath: //dd[@id='product_attribute_input_5']//li/label]'
+2023-12-18 12:12:805 INFO  BuildYourOwnComputerPage :96 - Click on 'ADD TO CART' Button
+2023-12-18 12:12:505 INFO  BuildYourOwnComputerPage :101 - Get productAdded Message : The product has been added to your shopping cart
+2023-12-18 12:12:43 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (bb52df3a71695d436fa0881bb1ce8d67)] -> link text: Log in]
+2023-12-18 12:12:75 INFO  HomePage :87 - Click on 'Computer' tab
+2023-12-18 12:12:393 INFO  ComputerPage :32 - Click on 'Desktops' link
+2023-12-18 12:12:213 INFO  BuildYourOwnComputerPage :56 - Select processor '2.5 GHz Intel Pentium Dual-Core E2200 [+$15.00]'
+2023-12-18 12:12:290 INFO  BuildYourOwnComputerPage :61 - Select RAM '8GB [+$60.00]'
+2023-12-18 12:12:344 INFO  BuildYourOwnComputerPage :68 - Select HDD '320 GB'
+2023-12-18 12:12:389 INFO  BuildYourOwnComputerPage :78 - Select HDD 'Vista Home [+$50.00]'
+2023-12-18 12:12:449 INFO  BuildYourOwnComputerPage :88 - Select Software '[[ChromeDriver: chrome on windows (bb52df3a71695d436fa0881bb1ce8d67)] -> xpath: //dd[@id='product_attribute_input_5']//li/label]'
+2023-12-18 12:12:495 INFO  BuildYourOwnComputerPage :96 - Click on 'ADD TO CART' Button
+2023-12-18 12:12:763 INFO  BuildYourOwnComputerPage :101 - Get productAdded Message : The product has been added to your shopping cart
+2023-12-18 12:12:615 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (dddebdfcb4d71d04a6ec0846ab6eed15)] -> link text: Log in]
+2023-12-18 12:12:655 INFO  LoginPage :35 - Getting text from : [[ChromeDriver: chrome on windows (dddebdfcb4d71d04a6ec0846ab6eed15)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-12-18 12:12:553 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (f39c97c637b931ecee29ded1330dbbe7)] -> link text: Log in]
+2023-12-18 12:12:593 INFO  LoginPage :35 - Getting text from : [[ChromeDriver: chrome on windows (f39c97c637b931ecee29ded1330dbbe7)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-12-18 12:12:605 INFO  LoginPage :40 - Sending text to : [[ChromeDriver: chrome on windows (f39c97c637b931ecee29ded1330dbbe7)] -> id: Email]
+2023-12-18 12:12:664 INFO  LoginPage :45 - Sending text to : [[ChromeDriver: chrome on windows (f39c97c637b931ecee29ded1330dbbe7)] -> name: Password]
+2023-12-18 12:12:381 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (f232798d1fff76ac8e7d8026a851dad7)] -> link text: Log in]
+2023-12-18 12:12:410 INFO  LoginPage :35 - Getting text from : [[ChromeDriver: chrome on windows (f232798d1fff76ac8e7d8026a851dad7)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-12-18 12:12:422 INFO  LoginPage :40 - Sending text to : [[ChromeDriver: chrome on windows (f232798d1fff76ac8e7d8026a851dad7)] -> id: Email]
+2023-12-18 12:12:478 INFO  LoginPage :45 - Sending text to : [[ChromeDriver: chrome on windows (f232798d1fff76ac8e7d8026a851dad7)] -> name: Password]
+2023-12-18 12:12:238 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (0e4429b3ff4a451113a448104247a3e0)] -> link text: Log in]
+2023-12-18 12:12:266 INFO  LoginPage :35 - Getting text from : [[ChromeDriver: chrome on windows (0e4429b3ff4a451113a448104247a3e0)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-12-18 12:12:278 INFO  LoginPage :40 - Sending text to : [[ChromeDriver: chrome on windows (0e4429b3ff4a451113a448104247a3e0)] -> id: Email]
+2023-12-18 12:12:337 INFO  LoginPage :45 - Sending text to : [[ChromeDriver: chrome on windows (0e4429b3ff4a451113a448104247a3e0)] -> name: Password]
+2023-12-18 12:12:67 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (25539159fb50ff8276305a1928a38d3c)] -> link text: Log in]
+2023-12-18 12:12:102 INFO  LoginPage :35 - Getting text from : [[ChromeDriver: chrome on windows (25539159fb50ff8276305a1928a38d3c)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-12-18 12:12:114 INFO  LoginPage :40 - Sending text to : [[ChromeDriver: chrome on windows (25539159fb50ff8276305a1928a38d3c)] -> id: Email]
+2023-12-18 12:12:179 INFO  LoginPage :45 - Sending text to : [[ChromeDriver: chrome on windows (25539159fb50ff8276305a1928a38d3c)] -> name: Password]
+2023-12-18 12:12:902 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (703eeb2421932d509d3af5e00d06fc50)] -> link text: Log in]
+2023-12-18 12:12:932 INFO  LoginPage :35 - Getting text from : [[ChromeDriver: chrome on windows (703eeb2421932d509d3af5e00d06fc50)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-12-18 12:12:943 INFO  LoginPage :40 - Sending text to : [[ChromeDriver: chrome on windows (703eeb2421932d509d3af5e00d06fc50)] -> id: Email]
+2023-12-18 12:12:05 INFO  LoginPage :45 - Sending text to : [[ChromeDriver: chrome on windows (703eeb2421932d509d3af5e00d06fc50)] -> name: Password]
+2023-12-18 12:12:30 INFO  HomePage :54 - Clicking on log out link : [[ChromeDriver: chrome on windows (703eeb2421932d509d3af5e00d06fc50)] -> xpath: //a[normalize-space()='Log out']]
+2023-12-18 12:12:468 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (c30b2049078854fd9e790e9de1c01406)] -> link text: Log in]
+2023-12-18 12:12:759 INFO  HomePage :49 - Clicking on register link : [[ChromeDriver: chrome on windows (c30b2049078854fd9e790e9de1c01406)] -> link text: Register]
+2023-12-18 12:12:792 INFO  RegisterPage :95 - Get registerText : Register
+2023-12-18 12:12:191 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (0b545f58b99223c907368aec8cf9280f)] -> link text: Log in]
+2023-12-18 12:12:491 INFO  HomePage :49 - Clicking on register link : [[ChromeDriver: chrome on windows (0b545f58b99223c907368aec8cf9280f)] -> link text: Register]
+2023-12-18 12:12:553 INFO  RegisterPage :145 - Click on 'REGISTER' button
+2023-12-18 12:12:591 INFO  RegisterPage :174 - Get First name is required field : First name is required.
+2023-12-18 12:12:617 INFO  RegisterPage :179 - Get Last name is required field : Last name is required.
+2023-12-18 12:12:642 INFO  RegisterPage :184 - Get email is required field : Email is required.
+2023-12-18 12:12:666 INFO  RegisterPage :189 - Get password is required field : Password is required.
+2023-12-18 12:12:689 INFO  RegisterPage :194 - Get confirm password is required field : Password is required.
+2023-12-18 12:12:74 INFO  HomePage :44 - Clicking on login link : [[ChromeDriver: chrome on windows (440e98d6ddc53cfac0e11245c13d0b6a)] -> link text: Log in]
+2023-12-18 12:12:373 INFO  HomePage :49 - Clicking on register link : [[ChromeDriver: chrome on windows (440e98d6ddc53cfac0e11245c13d0b6a)] -> link text: Register]
+2023-12-18 12:12:426 INFO  RegisterPage :102 - Select 'Female' radio button
+2023-12-18 12:12:515 INFO  RegisterPage :111 - Enter Firstname : 'Alia' to firstName field
+2023-12-18 12:12:566 INFO  RegisterPage :116 - Enter Lastname : 'Bhatt' to lastName field
+2023-12-18 12:12:753 INFO  RegisterPage :123 - Select day : '22', month : 'February', year : '1980' for DateOfBirth
+2023-12-18 12:12:800 INFO  RegisterPage :129 - Enter Email : 'alia1235@gmial.com' to email field
+2023-12-18 12:12:845 INFO  RegisterPage :134 - Enter Password : 'bhatt123' to password field
+2023-12-18 12:12:900 INFO  RegisterPage :139 - Enter Confirm password : 'bhatt123' to confirm password field
+2023-12-18 12:12:421 INFO  RegisterPage :145 - Click on 'REGISTER' button
+2023-12-18 12:12:449 INFO  RegisterPage :163 - Get your reg completed text : Your registration completed
